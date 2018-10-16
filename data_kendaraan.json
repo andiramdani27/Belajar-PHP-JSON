@@ -1,0 +1,698 @@
+[
+  {
+    "nomor_polisi": "B 1151 VQ",
+    "jenis_kendaraan": "Micro Bus",
+    "merk": "Isuzu",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 0
+  },
+  {
+    "nomor_polisi": "B 1618 PQQ",
+    "jenis_kendaraan": "Mini Bus",
+    "merk": "Toyota New Avanza Veloz",
+    "lokasi": "Biro Tata Pemerintahan",
+    "keterangan": "",
+    "id": 1
+  },
+  {
+    "nomor_polisi": "B 1214 PQP",
+    "jenis_kendaraan": "Mini Bus",
+    "merk": "Isuzu Panther",
+    "lokasi": "Biro Tata Pemerintahan",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi BPKAD",
+    "id": 2
+  },
+  {
+    "nomor_polisi": "B 2664 EQ",
+    "jenis_kendaraan": "Mini Bus",
+    "merk": "Toyota Kijang",
+    "lokasi": "Biro Pendidikan dan Mental Spiritual",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Biro Perlengkapan",
+    "id": 3
+  },
+  {
+    "nomor_polisi": "B 2661 EQ",
+    "jenis_kendaraan": "Mini Bus",
+    "merk": "Toyota Kijang",
+    "lokasi": "Biro Pendidikan dan Mental Spiritual",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Biro Perlengkapan",
+    "id": 4
+  },
+  {
+    "nomor_polisi": "B 2671 EQ",
+    "jenis_kendaraan": "Mini Bus",
+    "merk": "Toyota Kijang",
+    "lokasi": "Biro Pendidikan dan Mental Spiritual",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Biro Perlengkapan",
+    "id": 5
+  },
+  {
+    "nomor_polisi": "B 8322 EQ",
+    "jenis_kendaraan": "Mini Bus",
+    "merk": "Suzuki Carry",
+    "lokasi": "Biro Pendidikan dan Mental Spiritual",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Biro Perlengkapan",
+    "id": 6
+  },
+  {
+    "nomor_polisi": "B 2678 EQ",
+    "jenis_kendaraan": "Mini Bus",
+    "merk": "Toyota Kijang",
+    "lokasi": "Biro Pendidikan dan Mental Spiritual",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Biro Perlengkapan",
+    "id": 7
+  },
+  {
+    "nomor_polisi": "B 8567 WU",
+    "jenis_kendaraan": "Minibus",
+    "merk": "Toyota Corolla Altis",
+    "lokasi": "Biro Kesejahteraan Sosial",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Hibah BPKAD",
+    "id": 8
+  },
+  {
+    "nomor_polisi": "B 1801 SQO",
+    "jenis_kendaraan": "Minibus",
+    "merk": "Chevrolet Captiva 2,0L AT",
+    "lokasi": "Biro Organisasi dan Reformasi Birokrasi",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Gudang Pulomas",
+    "id": 9
+  },
+  {
+    "nomor_polisi": "B 1098 PQH",
+    "jenis_kendaraan": "Mobil Jeep",
+    "merk": "Toyota Land Cruiser PRADO",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.323",
+    "id": 10
+  },
+  {
+    "nomor_polisi": "B 1704 PQQ",
+    "jenis_kendaraan": "Mobil Minibus",
+    "merk": "Toyota Innova V",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.323",
+    "id": 11
+  },
+  {
+    "nomor_polisi": "B 1156 PQA",
+    "jenis_kendaraan": "Mobil Sedan",
+    "merk": "Toyota Corolla Altis",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.323",
+    "id": 12
+  },
+  {
+    "nomor_polisi": "B 1159 PQA",
+    "jenis_kendaraan": "Mobil Sedan",
+    "merk": "Toyota Corolla Altis",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.323",
+    "id": 13
+  },
+  {
+    "nomor_polisi": "B 1717 PQA",
+    "jenis_kendaraan": "Mobil Sedan",
+    "merk": "Toyota Corolla Altis",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.323",
+    "id": 14
+  },
+  {
+    "nomor_polisi": "B 8597 WU",
+    "jenis_kendaraan": "Mobil Sedan",
+    "merk": "Toyota Corolla Altis",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 15
+  },
+  {
+    "nomor_polisi": "B 2316 UQ",
+    "jenis_kendaraan": "Mobil Sedan",
+    "merk": "Toyota Corolla Altis",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi BPKAD BAST No 30/-77.323",
+    "id": 16
+  },
+  {
+    "nomor_polisi": "B 1726 PQA",
+    "jenis_kendaraan": "Mobil Sedan",
+    "merk": "Toyota Corolla Altis",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.323",
+    "id": 17
+  },
+  {
+    "nomor_polisi": "B 1157 PQA",
+    "jenis_kendaraan": "Mobil Sedan",
+    "merk": "Toyota Corolla Altis",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.323",
+    "id": 18
+  },
+  {
+    "nomor_polisi": "B 1154 PQA",
+    "jenis_kendaraan": "Mobil Sedan",
+    "merk": "Toyota Corolla Altis",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 13.1/-077.323",
+    "id": 19
+  },
+  {
+    "nomor_polisi": "B 1160 PQA",
+    "jenis_kendaraan": "Mobil Sedan",
+    "merk": "Toyota Corolla Altis",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.323",
+    "id": 20
+  },
+  {
+    "nomor_polisi": "B 2294 UQ",
+    "jenis_kendaraan": "Mobil Sedan",
+    "merk": "Toyota New Corolla Altis",
+    "lokasi": "Biro Perekonomian",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 21
+  },
+  {
+    "nomor_polisi": "B 6662 PLQ",
+    "jenis_kendaraan": "Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Perekonomian",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 22
+  },
+  {
+    "nomor_polisi": "B 9085 OQ",
+    "jenis_kendaraan": "Pick Up",
+    "merk": "Isuzu Panther",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 23
+  },
+  {
+    "nomor_polisi": "B 9290 OQ",
+    "jenis_kendaraan": "Pick Up",
+    "merk": "Isuzu Panther",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 24
+  },
+  {
+    "nomor_polisi": "B 9300 PTA",
+    "jenis_kendaraan": "Pick Up",
+    "merk": "Isuzu Panther",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 25
+  },
+  {
+    "nomor_polisi": "B 8479 WU",
+    "jenis_kendaraan": "Sedan",
+    "merk": "Toyota Corolla Altis",
+    "lokasi": "Biro Pendidikan dan Mental Spiritual",
+    "keterangan": "Asal-usul/Cara Perolehan melalui BPKAD",
+    "id": 26
+  },
+  {
+    "nomor_polisi": "B 6439 PCQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki Smash",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 27
+  },
+  {
+    "nomor_polisi": "B 6785 PKQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Kawasaki",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.323",
+    "id": 28
+  },
+  {
+    "nomor_polisi": "B 6788 PKQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Kawasaki",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.324",
+    "id": 29
+  },
+  {
+    "nomor_polisi": "B 6786 PKQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Kawasaki",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.325",
+    "id": 30
+  },
+  {
+    "nomor_polisi": "B 6002 PXQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki Axelo FL125SCD",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutas BPKAD BAST No 02/-077.323",
+    "id": 31
+  },
+  {
+    "nomor_polisi": "B 6449 PCQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki Smash",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 32
+  },
+  {
+    "nomor_polisi": "B 6451 PCQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki Smash",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 33
+  },
+  {
+    "nomor_polisi": "B 6448 PCQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki Smash",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 34
+  },
+  {
+    "nomor_polisi": "B 6423 PCQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki Smash",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 35
+  },
+  {
+    "nomor_polisi": "B 6021 PXQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki Axelo FL125SCD",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutas BPKAD BAST No 02/-077.323",
+    "id": 36
+  },
+  {
+    "nomor_polisi": "B 6109 PXQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki FL125SCD",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.323",
+    "id": 37
+  },
+  {
+    "nomor_polisi": "B 6003 PXQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki Axelo FL125SCD",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi BPKAD BAST No 02/-077.323",
+    "id": 38
+  },
+  {
+    "nomor_polisi": "B 6001 PXQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki Axelo FL125SCD",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi BPKAD BAST No 02/-077.324",
+    "id": 39
+  },
+  {
+    "nomor_polisi": "B 6121 PXQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki FL125SCD",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.323",
+    "id": 40
+  },
+  {
+    "nomor_polisi": "B 6113 PXQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki FL125SCD",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.324",
+    "id": 41
+  },
+  {
+    "nomor_polisi": "B 6112 PXQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki FL125SCD",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.325",
+    "id": 42
+  },
+  {
+    "nomor_polisi": "B 6111 PXQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki FL125SCD",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.326",
+    "id": 43
+  },
+  {
+    "nomor_polisi": "B 6110 PXQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki FL125SCD",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.327",
+    "id": 44
+  },
+  {
+    "nomor_polisi": "B 6671 PEQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki Smash",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 45
+  },
+  {
+    "nomor_polisi": "B 4385 PQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 46
+  },
+  {
+    "nomor_polisi": "B 6491 PKQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Kawasaki",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro KDH BAST No 19/-077.323",
+    "id": 47
+  },
+  {
+    "nomor_polisi": "B 6386 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Supra XCW",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutasi Biro Umum BAST No 34/-077",
+    "id": 48
+  },
+  {
+    "nomor_polisi": "B 6005 PXQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki Axelo FL125SCD",
+    "lokasi": "Biro Administrasi Keuangan dan Aset Setda",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Mutas BPKAD BAST No 02/-077.323",
+    "id": 49
+  },
+  {
+    "nomor_polisi": "B 6390 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Supra XCW",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 50
+  },
+  {
+    "nomor_polisi": "B 6381 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Revo New Spoke",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 51
+  },
+  {
+    "nomor_polisi": "B 6382 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Supra XCW",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 52
+  },
+  {
+    "nomor_polisi": "B 6383 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Supra XCW",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 53
+  },
+  {
+    "nomor_polisi": "B 6384 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Supra XCW",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 54
+  },
+  {
+    "nomor_polisi": "B 6385 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Supra XCW",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 55
+  },
+  {
+    "nomor_polisi": "B 6378 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Revo New Spoke",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 56
+  },
+  {
+    "nomor_polisi": "B 4392 PQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 57
+  },
+  {
+    "nomor_polisi": "B 6389 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Supra XCW",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 58
+  },
+  {
+    "nomor_polisi": "B 6377 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Supra XCW",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 59
+  },
+  {
+    "nomor_polisi": "B 6387 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Supra XCW",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 60
+  },
+  {
+    "nomor_polisi": "B 8735 EQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Pendidikan dan Mental Spiritual",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Biro Perlengkapan",
+    "id": 61
+  },
+  {
+    "nomor_polisi": "B 4946 EQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Pendidikan dan Mental Spiritual",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Biro Perlengkapan",
+    "id": 62
+  },
+  {
+    "nomor_polisi": "B 3787 HQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki",
+    "lokasi": "Biro Pendidikan dan Mental Spiritual",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Hibah",
+    "id": 63
+  },
+  {
+    "nomor_polisi": "",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Hukum",
+    "keterangan": "",
+    "id": 64
+  },
+  {
+    "nomor_polisi": "",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Hukum",
+    "keterangan": "",
+    "id": 65
+  },
+  {
+    "nomor_polisi": "B 6054 PBQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Tata Pemerintahan",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 66
+  },
+  {
+    "nomor_polisi": "B 6388 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Supra XCW",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 67
+  },
+  {
+    "nomor_polisi": "B 4099 PQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 68
+  },
+  {
+    "nomor_polisi": "B 6672 PEQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki Smash",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 69
+  },
+  {
+    "nomor_polisi": "B 4391 PQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 70
+  },
+  {
+    "nomor_polisi": "B 6061 PBQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 71
+  },
+  {
+    "nomor_polisi": "B 4386 PQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 72
+  },
+  {
+    "nomor_polisi": "B 4293 PQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 73
+  },
+  {
+    "nomor_polisi": "B 4384 PQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 74
+  },
+  {
+    "nomor_polisi": "B 5469 LQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 75
+  },
+  {
+    "nomor_polisi": "B 6380 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Revo New Spoke",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 76
+  },
+  {
+    "nomor_polisi": "B 5490 LQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 77
+  },
+  {
+    "nomor_polisi": "B 6379 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Supra XCW",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 78
+  },
+  {
+    "nomor_polisi": "B 6627 PLQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 79
+  },
+  {
+    "nomor_polisi": "B 6814 AQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 80
+  },
+  {
+    "nomor_polisi": "B 6059 PBQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 81
+  },
+  {
+    "nomor_polisi": "B 6228 BQQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 82
+  },
+  {
+    "nomor_polisi": "B 6375 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Supra XCW",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 83
+  },
+  {
+    "nomor_polisi": "B 6376 PUQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Honda Supra XCW",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 84
+  },
+  {
+    "nomor_polisi": "B 6672 PEQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki Smash",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 85
+  },
+  {
+    "nomor_polisi": "B 4941 EQ",
+    "jenis_kendaraan": "Sepeda Motor",
+    "merk": "Suzuki A100",
+    "lokasi": "Biro Umum",
+    "keterangan": "Asal-usul/Cara Perolehan melalui Pembelian",
+    "id": 86
+  }
+]
